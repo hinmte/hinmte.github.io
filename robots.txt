@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hinmte.github.io/Kkc/sitemap.Kkc.gz
